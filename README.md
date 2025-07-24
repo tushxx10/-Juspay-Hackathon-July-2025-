@@ -29,11 +29,11 @@ Handles queries dynamically
 Example Input & Output
 Input Tree:
 
-        World
-       /     \
-     Asia    Africa
-    /   \     /   \
- China India SouthAfrica Egypt
+              World
+           /         \
+       Asia          Africa
+       /   \        /       \
+    China  India SouthAfrica  Egypy
  
 Sample Queries:
 1 China 9      → true
